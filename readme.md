@@ -1,1 +1,1 @@
-# Arquivo json criado automaticamente pelo Azure, este arquivo mostra a criacao de um blob.#
+# Arquivo json criado automaticamente pelo Azure, este arquivo mostra a criacao de um blob.
